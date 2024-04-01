@@ -1,6 +1,6 @@
 
 ## Binary search pseudocode
-![[Pasted image 20240401100413.png]]
+(20240401100413.png)
 
 ## Selection sort pseudocode
 ![[Pasted image 20240401100510.png]]
